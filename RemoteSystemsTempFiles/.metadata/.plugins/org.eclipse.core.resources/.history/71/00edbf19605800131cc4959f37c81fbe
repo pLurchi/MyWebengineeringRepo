@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+/*Main Stylesheet of Web Eng G1 */
+
+
+
+h1 { 
+	color: #5B83AD; 
+}
+
+table {
+	border: 2px solid black;	
+}
+
+}
+td {
+	border: 1px solid red;
+	text-align: top;
+}
+
+th {
+	text-align: left top;	
+}

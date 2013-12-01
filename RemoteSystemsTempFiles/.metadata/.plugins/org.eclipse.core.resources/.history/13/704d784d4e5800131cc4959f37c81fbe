@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>HA-Kapitel06</title>
+</head>
+<body>
+
+	<h1>Tabelle mit HTML 1.0 strict Elementen</h1>
+	
+	<table class="wiki-content-table">
+<tr>
+<th>Element</th>
+<th>Bedeutung</th>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-a">&lt;a&gt;</a></tt></td>
+<td>Verweis (Hyperlink) und Anker für Verweise</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-abbr">&lt;abbr&gt;</a></tt></td>
+<td>Abkürzung</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-address">&lt;address&gt;</a></tt></td>
+<td>Kontaktangabe zum Autor eines Inhalts (Credits)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-area">&lt;area&gt;</a></tt></td>
+<td>Verweis-sensitiver Bereich in einer Image-Map-Grafik</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-article">&lt;article&gt;</a></tt></td>
+<td>Artikel (z.B. einer von mehreren Blog-Artikeln auf einer Seite)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-aside">&lt;aside&gt;</a></tt></td>
+<td>Marginalbereich</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-audio">&lt;audio&gt;</a></tt></td>
+<td>Eingebettete Audio-Ressource (Musik, Podcast, usw.)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-b">&lt;b&gt;</a></tt></td>
+<td>Stilistische Hervorhebung im Text (üblicherweise fett dargestellt)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-base">&lt;base&gt;</a></tt></td>
+<td>Basis-URL für Referenzen</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-bdi">&lt;bdi&gt;</a></tt></td>
+<td>Zusammengehöriger Bereich für eine Schreibrichtung</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-bdo">&lt;bdo&gt;</a></tt></td>
+<td>Richtungsänderung bei bidirektionalem Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-blockquote">&lt;blockquote&gt;</a></tt></td>
+<td>Zitat in Form eines eigenen Textabsatzes</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-body">&lt;body&gt;</a></tt></td>
+<td>Inhaltsbereich eines HTML-Dokuments</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-br">&lt;br&gt;</a></tt></td>
+<td>Erzwungener Zeilenumbruch an der betreffenden Stelle</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-button">&lt;button&gt;</a></tt></td>
+<td>Schaltfläche in einem Formular</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-canvas">&lt;canvas&gt;</a></tt></td>
+<td>Bereich für scriptgesteuerte Grafik und/oder Interaktion</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-caption">&lt;caption&gt;</a></tt></td>
+<td>Tabellenüberschrift / -unterschrift</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-cite">&lt;cite&gt;</a></tt></td>
+<td>Zitat innerhalb eines Absatzes</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-code">&lt;code&gt;</a></tt></td>
+<td>Quelltext-Auszug innerhalb eines Absatzes</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-col">&lt;col&gt;</a></tt></td>
+<td>Tabellenspalte</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-colgroup">&lt;colgroup&gt;</a></tt></td>
+<td>Gruppe von Tabellenspalten</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-datalist">&lt;datalist&gt;</a></tt></td>
+<td>Liste angebotener Einträge einer Kombobox in einem Formular</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-dd">&lt;dd&gt;</a></tt></td>
+<td>Definition, Beschreibung, detaillierter Inhalt zu einem dt-Element</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-del">&lt;del&gt;</a></tt></td>
+<td>gelöschter Inhalt (Änderungsmarkierung)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-details">&lt;details&gt;</a></tt></td>
+<td>Erläuterung</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-dfn">&lt;dfn&gt;</a></tt></td>
+<td>Definition innerhalb eines Absatzes</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-dialog">&lt;dialog&gt;</a></tt></td>
+<td>Bereich für Anwendungsdialoge</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-div">&lt;div&gt;</a></tt></td>
+<td>Allgemeiner Bereich</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-dl">&lt;dl&gt;</a></tt></td>
+<td>Liste mit dt- und dd-Elementen, für Definitionslisten, Dialoge usw.</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-dt">&lt;dt&gt;</a></tt></td>
+<td>Zu definierender Ausdruck in einer Definitionsliste, Sprechername in einem Dialog usw.</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-em">&lt;em&gt;</a></tt></td>
+<td>emphatischer Ausdruck innerhalb eines Absatzes (z.B. überspitzte Formulierung)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-embed">&lt;embed&gt;</a></tt></td>
+<td>Eingebettetes Element, für das ein Plugin erforderlich ist</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-fieldset">&lt;fieldset&gt;</a></tt></td>
+<td>Gruppe von Elementen in einem Formular, Reiter in einem Dialog</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-figcaption">&lt;figcaption&gt;</a></tt></td>
+<td>Beschreibung einer Grafik</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-figure">&lt;figure&gt;</a></tt></td>
+<td>Grafik inklusive Beschreibung</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-footer">&lt;footer&gt;</a></tt></td>
+<td>Sichtbarer Fußbereich einer Webseite</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-form">&lt;form&gt;</a></tt></td>
+<td>Formular, Dialog</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-h1-h6">&lt;h1&gt; - &lt;h6&gt;</a></tt></td>
+<td>Überschrift 1. bis 6. Ordnung</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-head">&lt;head&gt;</a></tt></td>
+<td>Kopfbereich eines HTML-Dokuments</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-header">&lt;header&gt;</a></tt></td>
+<td>Sichtbarer Kopfbereich einer Webseite</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-hgroup">&lt;hgroup&gt;</a></tt></td>
+<td>Gruppe mehrerer ohne sonstigen Inhalt aufeinanderfolgender Überschriften</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-hr">&lt;hr&gt;</a></tt></td>
+<td>Trennlinie</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-html">&lt;html&gt;</a></tt></td>
+<td>Dokumentelement von HTML-Dokumenten, schließt das gesamte Dokument ein</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-i">&lt;i&gt;</a></tt></td>
+<td>spezieller Ausdruck im Text, z.B. Fachterminus oder Idiom (üblicherweise kursiv dargestellt)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-iframe">&lt;iframe&gt;</a></tt></td>
+<td>Eingebettetes Framefenster für beliebige andere Inhalte</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-img">&lt;img&gt;</a></tt></td>
+<td>Referenzierte und eingebettete Grafik</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-input">&lt;input&gt;</a></tt></td>
+<td>Formularelement, verwendbar für diverse Typen wie Eingabefelder, Schaltflächen, Auswahlfelder usw.</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-ins">&lt;ins&gt;</a></tt></td>
+<td>Eingefügter Inhalt (Änderungsmarkierung)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-kbd">&lt;kbd&gt;</a></tt></td>
+<td>Darstellung eines über Tastatur einzugebenden Textes im Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-keygen">&lt;keygen&gt;</a></tt></td>
+<td>Generiert innerhalb eines Formulars mit Hilfe eines Hash-Algorithmus einen Schlüssel für sichere Datenübertragung</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-label">&lt;label&gt;</a></tt></td>
+<td>Beschriftungstext eines Formularfeldes</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-legend">&lt;legend&gt;</a></tt></td>
+<td>Überschrift für eine fieldset-Gruppe von Elementen in einem Formular</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-li">&lt;li&gt;</a></tt></td>
+<td>Listenpunkt in einer ul-, ol- oder menu-Liste</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-link">&lt;link&gt;</a></tt></td>
+<td>Logische Beziehungen der aktuellen Webseite zu anderen Webseiten</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-main">&lt;main&gt;</a></tt></td>
+<td>Bereich für den Hauptinhalt einer Webseite</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-map">&lt;map&gt;</a></tt></td>
+<td>Bereich für verweis-sensitive Grafiken</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-mark">&lt;mark&gt;</a></tt></td>
+<td>als markiert hervorgehobener Text, z.B. für Fundstellen eines gesuchten Ausdrucks</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-menu">&lt;menu&gt;</a></tt></td>
+<td>Menüliste</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-menuitem">&lt;menuitem&gt;</a></tt></td>
+<td>Menübefehl</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-meta">&lt;meta&gt;</a></tt></td>
+<td>Meta-Angabe für nicht im Inhalt sichtbare Dokumentinformationen oder für Anweisungen an den Webserver</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-meter">&lt;meter&gt;</a></tt></td>
+<td>Wert in einer bekannten Skala, z.B. Prozentangabe oder Celsius-Temperaturangabe</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-nav">&lt;nav&gt;</a></tt></td>
+<td>Navigationsbereich einer Webseite</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-noscript">&lt;noscript&gt;</a></tt></td>
+<td>Bereich für Inhalte, die angezeigt werden, wenn JavaScript im Browser deaktiviert oder nicht verfügbar ist</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-object">&lt;object&gt;</a></tt></td>
+<td>Eingebettetes Objekt, geeignet für spezielle Multimedia-Objekte, Java-Applets usw.</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-ol">&lt;ol&gt;</a></tt></td>
+<td>Geordnete (z.B. nummerierte) Liste</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-optgroup">&lt;optgroup&gt;</a></tt></td>
+<td>Gruppe von Auswahlmöglichkeiten in einer Auswahlliste</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-option">&lt;option&gt;</a></tt></td>
+<td>Auswahlmöglichkeit in einer Auswahlliste</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-output">&lt;output&gt;</a></tt></td>
+<td>Bereich für dynamisch erzeugte Ausgaben, z.B. von einem JavaScript</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-p">&lt;p&gt;</a></tt></td>
+<td>Textabsatz</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-param">&lt;param&gt;</a></tt></td>
+<td>Parameter eines Objekts bei object-Element</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-pre">&lt;pre&gt;</a></tt></td>
+<td>Präformatierter Text (alle Whitespace-Zeichen werden im Browser so dargestellt wie im Text enthalten)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-progress">&lt;progress&gt;</a></tt></td>
+<td>Element für Fortschrittsbalken einer Aktion, muss von JavaScript dynamisch versorgt werden</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-q">&lt;q&gt;</a></tt></td>
+<td>Wörtliche Rede in einem Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-rp">&lt;rp&gt;</a></tt></td>
+<td>Umschließender Inhalt für Ruby-Annotationen</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-rt">&lt;rt&gt;</a></tt></td>
+<td>Inhalt von Ruby-Annotationen</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-ruby">&lt;ruby&gt;</a></tt></td>
+<td>Bereich für Ruby-Annotationen</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-s">&lt;s&gt;</a></tt></td>
+<td>Nicht mehr gültiger Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-samp">&lt;samp&gt;</a></tt></td>
+<td>Beispieltext in einem dokumentierenden Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-script">&lt;script&gt;</a></tt></td>
+<td>Scriptbereich für JavaScript und andere Scriptsprachen</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-section">&lt;section&gt;</a></tt></td>
+<td>Logischer Bereich, z.B. Kommentarbereich</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-select">&lt;select&gt;</a></tt></td>
+<td>Auswahlliste in einem Formular</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-small">&lt;small&gt;</a></tt></td>
+<td>kleiner dargestellter Text als Normalschrift</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-source">&lt;source&gt;</a></tt></td>
+<td>Für alternative Ressourcen innerhalb eines audio- oder video-Elements</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-span">&lt;span&gt;</a></tt></td>
+<td>allgemeiner Bereich innerhalb eines Absatzes</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-strong">&lt;strong&gt;</a></tt></td>
+<td>stark betonter Inhalt im Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-style">&lt;style&gt;</a></tt></td>
+<td>Bereich für Stylesheet-Definitionen, z.B. in CSS</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-sub">&lt;sub&gt;</a></tt></td>
+<td>Tiefgestellter Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-sup">&lt;sup&gt;</a></tt></td>
+<td>Hochgestellter Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-table">&lt;table&gt;</a></tt></td>
+<td>Tabelle</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-tbody">&lt;tbody&gt;</a></tt></td>
+<td>Tabellenkörper mit den eigentlichen Daten</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-td">&lt;td&gt;</a></tt></td>
+<td>Tabellenzelle</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-textarea">&lt;textarea&gt;</a></tt></td>
+<td>Mehrzeiliger Eingabebereich in einem Formular</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-tfoot">&lt;tfoot&gt;</a></tt></td>
+<td>Fußbereich in einer Tabelle, z.B. für summarische Daten</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-th">&lt;th&gt;</a></tt></td>
+<td>Tabellenkopfzelle</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-thead">&lt;thead&gt;</a></tt></td>
+<td>Kopfbereich einer Tabelle</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-time">&lt;time&gt;</a></tt></td>
+<td>Datums-/Zeitangabe</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-title">&lt;title&gt;</a></tt></td>
+<td>Titel eines HTML-Dokuments</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-tr">&lt;tr&gt;</a></tt></td>
+<td>Tabellenzeile</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-track">&lt;track&gt;</a></tt></td>
+<td>Zusätzliche Textspuren für Video- oder Audio-Streams</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-ul">&lt;ul&gt;</a></tt></td>
+<td>Unsortierte Liste (Aufzählungsliste)</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-var">&lt;var&gt;</a></tt></td>
+<td>Variabler Name in einem dokumentierenden Text</td>
+</tr>
+<tr>
+<td><tt><a href="/html-handbuch:html-elementreferenz-video">&lt;video&gt;</a></tt></td>
+<td>Eingebettete Video-Ressource</td>
+</tr>
+<tr>
+<td><tt><a class="newpage" href="/html-handbuch:html-elementreferenz-wbr">&lt;wbr&gt;</a></tt></td>
+<td>Mögliche Sollbruchstelle für Zeilenumbruch markieren</td>
+</tr>
+</table>
+
+
+</body>
+</html>

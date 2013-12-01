@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+/*Main Stylesheet of Web Eng G1 */
+
+
+
+h1 { 
+	color: #5B83AD; 
+}
+
+th {
+	text-align: left;	
+}

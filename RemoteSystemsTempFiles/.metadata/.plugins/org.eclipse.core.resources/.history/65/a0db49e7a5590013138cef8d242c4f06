@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+/*Main Stylesheet of Web Eng G1 */
+
+/*Colors
+	gray: #BDBDBD;
+*/
+
+body {
+	background-color: #BDBDBD;
+}
+
+h1 { 
+	color: #5B83AD; 
+}
+
+
+.headerdiv {
+	align:center;	
+}
+.bodydiv {
+	align:center;	
+}
+.footerdiv {
+	align:center;	
+}
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	border: 2px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	text-align: left;
+	vertical-align:top;	
+}
+
+td {
+	border: 1px solid black;
+	text-align: left;
+	vertical-align:top;
+}
+
