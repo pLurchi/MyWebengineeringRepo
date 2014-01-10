@@ -1,0 +1,71 @@
+@charset "UTF-8"; 
+
+/*Main Stylesheet of Web Eng G1 */
+
+/*Colors
+	gray: #BDBDBD;
+	dark-gray: #424242;
+	dark-orange: #8A2906;
+	light-blue: #0174DF;
+*/
+
+
+body {
+	background-color: white;
+}
+
+.maintable {
+	margin:auto;
+	border:0px;	
+}
+
+#headerth {
+	background-color: #0174DF;
+	color:white;
+		
+}
+
+#bodydtd {
+	padding:10px;
+}
+
+#footertd {
+	background-color: #0174DF;
+	padding:5px;
+	
+}
+
+
+
+h1 {
+	font-family:sans-serif;
+}
+
+p {
+	color:#8A2906;
+}
+
+
+.content-table {
+	margin: auto;
+	border: 2px solid white;
+	border-collapse: collapse;
+}
+
+th {
+	border: 2px solid white;
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	text-align: left;
+	vertical-align:top;
+	background-color: #0174DF;
+	color: white;	
+}
+
+td {
+	background-color: #BDBDBD;
+	border: 1px solid white;
+	text-align: left;
+	vertical-align:top;
+}
+
