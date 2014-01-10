@@ -1879,14 +1879,6 @@ input[type="search"] {
           box-sizing: border-box;
 }
 
-input[type="radio"],
-input[type="checkbox"] {
-  margin: 4px 0 0;
-  margin-top: 1px \9;
-  /* IE8-9 */
-
-  line-height: normal;
-}
 
 input[type="file"] {
   display: block;
@@ -3534,14 +3526,7 @@ input[type="button"].btn-block {
   color: #999999;
 }
 
-.dropdown-menu > .disabled > a:hover,
-.dropdown-menu > .disabled > a:focus {
-  text-decoration: none;
-  cursor: not-allowed;
-  background-color: transparent;
-  background-image: none;
-  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
-}
+
 
 .open > .dropdown-menu {
   display: block;
@@ -5332,10 +5317,6 @@ a.thumbnail.active {
   color: #843534;
 }
 
-@-webkit-keyframes progress-bar-stripes {
-  from {
-    background-position: 40px 0;
-  }
   to {
     background-position: 0 0;
   }
@@ -5844,16 +5825,6 @@ a.list-group-item.active:focus .list-group-item-text {
   border-radius: 3px;
 }
 
-.close {
-  float: right;
-  font-size: 21px;
-  font-weight: bold;
-  line-height: 1;
-  color: #000000;
-  text-shadow: 0 1px 0 #ffffff;
-  opacity: 0.2;
-  filter: alpha(opacity=20);
-}
 
 button.close {
   padding: 0;
@@ -6288,9 +6259,6 @@ button.close {
   position: fixed;
 }
 
-@-ms-viewport {
-  width: device-width;
-}
 
 .visible-xs,
 tr.visible-xs,
